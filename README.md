@@ -26,6 +26,9 @@ This repository provides a well-organized folder structure for **Next.js 15** pr
 
 ## 📂 Project Structure  
 
+```yaml
+
+
 src/
 ├── app/                     # Main Next.js app directory
 │   ├── _components/         # Internal components specific to app pages
